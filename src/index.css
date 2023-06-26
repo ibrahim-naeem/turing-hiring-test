@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "AvenirBlack";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./font/AvenirLTStd-Black.otf") format("opentype");
+}
+@font-face {
+  font-family: "AvenirBook";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./font/AvenirLTStd-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: "AvenirRoman";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./font/AvenirLTStd-Roman.otf") format("opentype");
+}
+
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
